@@ -32,6 +32,7 @@ Todos los comentarios han sido estructurados para consulta versículo a versícu
 | **Comentarios Bíblicos de Juan Calvino** | Juan Calvino (1509–1564) | **10,410 notas**<br>32 libros bíblicos (AT y NT) | 30.1 MB | [⬇️ Descargar .sqlite3](https://github.com/isaix1234/biblia-recursos/releases/download/v1.0.0/CALVINO.commentaries.sqlite3) · [📂 Ver en Repo](./modulos/CALVINO.commentaries.sqlite3) |
 | **Comentario Bíblico de Matthew Henry** | Matthew Henry (Obra Completa) | **4,709 notas**<br>66 libros (Génesis a Apocalipsis) | 4.97 MB | [⬇️ Descargar .sqlite3](https://github.com/isaix1234/biblia-recursos/releases/download/v1.0.0/MHENRY.commentaries.sqlite3) · [📂 Ver en Repo](./modulos/MHENRY.commentaries.sqlite3) |
 | **El Tesoro de David** | Charles Haddon Spurgeon | **2,079 notas**<br>Obra completa de los 150 Salmos | 2.84 MB | [⬇️ Descargar .sqlite3](https://github.com/isaix1234/biblia-recursos/releases/download/v1.0.0/TESORO_DAVID.commentaries.sqlite3) · [📂 Ver en Repo](./modulos/TESORO_DAVID.commentaries.sqlite3) |
+| **Referencias Cruzadas OpenBible.info** | OpenBible.info (Dataset Trekhleb) | **29,337 versículos**<br>344,799 referencias cruzadas en los 66 libros | 28.9 MB | [⬇️ Descargar .sqlite3](https://github.com/isaix1234/biblia-recursos/releases/download/v1.0.0/OPENBIBLE.commentaries.sqlite3) · [📂 Ver en Repo](./modulos/OPENBIBLE.commentaries.sqlite3) |
 
 ---
 
